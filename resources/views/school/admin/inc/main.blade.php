@@ -1,0 +1,5 @@
+@include('school.admin.inc.header')
+@include('school.admin.inc.navbar')
+@include('school.admin.inc.sidebar')
+@yield('main-container')
+@include('school.admin.inc.footer')
